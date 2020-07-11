@@ -1,0 +1,7 @@
+Sony;Japane;3450;55;3;Not available;
+Horizont;Belarus;599;40;2;Available;
+Samsung;Korea;1911;54;3;Available;
+LG;Korea;2125;49;3;Available;
+Toshiba;Japane;863.43;43;2;Not available;
+Panasonic;Japane;1869.24;58;3;Available;
+Philips;Netherlands;1399;50;2;Not available;
